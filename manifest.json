@@ -1,0 +1,29 @@
+{
+  "name": "Campanha Aroma Solidário - Stella Gama",
+  "short_name": "Aroma Solidário",
+  "description": "Campanha beneficente de aromatizadores artesanais do Colégio Petrópolis - Aluna Stella Gama",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF8FF",
+  "theme_color": "#7C3AED",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
